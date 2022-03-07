@@ -1,0 +1,62 @@
+/*Barra de navegação*/
+.navbar-custom{
+    background-color: #FF5A5F!important;
+}
+
+.cabecalho {
+    background-color: #FF5A5F;
+}
+
+.titulo {
+    font-size: 1.25rem;
+    color: white;
+    
+}
+
+.progress-bar{
+    background-color: #087E8B;
+}
+
+.col-4{
+    text-align: center;
+}
+
+.bg-custom {
+    background-color: white;
+}
+
+footer{
+    background-color: #0B3954;
+}
+
+.btn.finalPagina {
+    color: white;
+}
+
+.btn-primary.lista {
+    background-color: #087E8B!important;
+}
+
+.btn-primary.acoes {
+    background-color: transparent!important;
+    color: rgb(34, 33, 33)!important;
+}
+
+a {
+    border: none!important;
+}
+
+a:visited{
+    color: white;
+}
+
+
+/*página de lista*/
+.dica {
+    font-size: 16pt;
+}
+
+/*página de adicionar itens*/
+h5.adicione {
+    text-align: start;
+}
